@@ -1,6 +1,6 @@
 {
   "name": "create-ming",
-  "version": "1.0.10",
+  "version": "1.0.11",
   "description": "Init egg app helper tools.",
   "main": "lib/main.js",
   "scripts": {
